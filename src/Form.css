@@ -1,0 +1,27 @@
+label {
+  display: block;
+  margin: 0 0.5rem 0 0;
+  height: 2rem;
+  line-height: 2rem;
+}
+input {
+  display: block;
+  height: 2rem;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  outline: none;
+  width: 100%;
+  margin: 0;
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  overflow: visible;
+}
+input:focus {
+  border-color: #146eeb;
+}
+.form {
+  display: flex;
+}
