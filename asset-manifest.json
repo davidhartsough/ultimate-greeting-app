@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ultimate-greeting-app/static/css/main.924720be.chunk.css",
+    "main.js": "/ultimate-greeting-app/static/js/main.b16ac182.chunk.js",
+    "main.js.map": "/ultimate-greeting-app/static/js/main.b16ac182.chunk.js.map",
+    "runtime-main.js": "/ultimate-greeting-app/static/js/runtime-main.e36279a1.js",
+    "runtime-main.js.map": "/ultimate-greeting-app/static/js/runtime-main.e36279a1.js.map",
+    "static/js/2.2cc33140.chunk.js": "/ultimate-greeting-app/static/js/2.2cc33140.chunk.js",
+    "static/js/2.2cc33140.chunk.js.map": "/ultimate-greeting-app/static/js/2.2cc33140.chunk.js.map",
+    "index.html": "/ultimate-greeting-app/index.html",
+    "precache-manifest.3136d6e243137330bc1917c9571a5891.js": "/ultimate-greeting-app/precache-manifest.3136d6e243137330bc1917c9571a5891.js",
+    "service-worker.js": "/ultimate-greeting-app/service-worker.js",
+    "static/css/main.924720be.chunk.css.map": "/ultimate-greeting-app/static/css/main.924720be.chunk.css.map",
+    "static/js/2.2cc33140.chunk.js.LICENSE": "/ultimate-greeting-app/static/js/2.2cc33140.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e36279a1.js",
+    "static/js/2.2cc33140.chunk.js",
+    "static/css/main.924720be.chunk.css",
+    "static/js/main.b16ac182.chunk.js"
+  ]
+}
